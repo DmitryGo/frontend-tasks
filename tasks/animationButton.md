@@ -1,4 +1,5 @@
-#AnimationButton
+AnimationButton
+========
 
 *Please use only HTML and CSS.*
 

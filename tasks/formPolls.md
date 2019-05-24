@@ -1,8 +1,9 @@
-#Simple form-polls user
+Simple form-polls user
+========
 
 *Please use only HTML and CSS.*
 
-##Form must contain:
+Form must contain:
 
 * First Name (important)
 * Last Name (important)

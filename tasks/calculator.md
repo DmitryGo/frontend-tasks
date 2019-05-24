@@ -1,4 +1,5 @@
-#Calculator
+Calculator
+========
 
 *Please use HTML, CSS and JS.*
 

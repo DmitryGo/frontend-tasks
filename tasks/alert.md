@@ -1,4 +1,5 @@
-#Alert message block
+Alert message block
+========
 
 *Please use only HTML and CSS.*
 

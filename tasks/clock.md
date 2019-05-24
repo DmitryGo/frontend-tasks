@@ -1,4 +1,5 @@
-#Clock
+Clock
+========
 
 *Please use HTML, CSS and JS.*
 

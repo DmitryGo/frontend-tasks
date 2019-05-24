@@ -1,8 +1,9 @@
-#Page with your bio information
+Page with your bio information
+========
 
 *Please use only HTML and CSS.*
 
-##Page must contain:
+Page must contain:
 
 * Photo
 * First Name
